@@ -55,4 +55,8 @@ function sleepAndRun(index) {
 ```
 
 ## Future
-Ultimately this could become a chrome plugin to grab urls and start "iframe flashing" when user clicks plugin.
+1) Ultimately this could become a chrome plugin to grab urls and start "iframe flashing" when user clicks plugin.
+
+2) Allow users to adjust the timer
+
+3) Display Large Countdown clock 10, 9, 8, 7 ... 0
